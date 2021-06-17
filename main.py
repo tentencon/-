@@ -11,6 +11,7 @@ from tkinter import messagebox
 from threading import Timer
 import DataSourse
 import time
+#123456
 
 class Stock(Tk):
     count = False
