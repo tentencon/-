@@ -12,7 +12,7 @@ from threading import Timer
 import DataSourse
 import time
 #123456
-
+#abcdef
 class Stock(Tk):
     count = False
     def __init__(self):
